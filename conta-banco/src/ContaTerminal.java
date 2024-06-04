@@ -1,5 +1,11 @@
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        //TODO: Conhecer e importar a classe scanner
+
+        // Exibir ás mensagens para o nosso usuário
+
+        //Obter pelo scanner os valores digitados no terminal
+
+        //Exibir a mensagem conta criada
     }
 }
